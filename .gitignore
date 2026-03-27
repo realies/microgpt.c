@@ -1,0 +1,8 @@
+microgpt
+microgpt_fast
+microgpt_*
+!microgpt_fast.c
+*.o
+*.dSYM/
+input.txt
+.DS_Store
